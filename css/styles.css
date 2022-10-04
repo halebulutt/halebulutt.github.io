@@ -11453,3 +11453,16 @@ section.resume-section .resume-section-content {
 #my-posts ul {
   margin-left: 0;
 }
+
+.copyright-text {
+  color: white;
+}
+
+.jquery-img {
+  text-align: center;
+}
+.baslik {
+  font-family: Helvetica;
+  color: black;
+  font-size: 32px;
+}
