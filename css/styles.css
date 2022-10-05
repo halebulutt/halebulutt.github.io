@@ -11466,3 +11466,18 @@ section.resume-section .resume-section-content {
   color: black;
   font-size: 32px;
 }
+
+
+/* @media screen and (max-width: 500px) {
+  .tum-sayfa {
+    background-color: beige;
+    padding: 0 2em;
+  }
+
+  .tum-sayfa .jquery-img {
+    width: 100%;
+  }
+
+  
+
+} */
